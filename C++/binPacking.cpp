@@ -1,5 +1,3 @@
-// lastname_binpacking.cpp
-// framework provided by Jon Beck
 // completed by: Sean Hellebusch
 // non-optimal bin packing from Neapolitan page 422
 //
